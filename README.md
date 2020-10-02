@@ -1,3 +1,18 @@
+References: 
+
+
+https://stackoverflow.com/questions/58282755/handle-onchange-for-checkbox
+
+https://stackoverflow.com/questions/55715719/how-to-return-true-or-false-using-the-input-checkbox-in-react-js/55715755
+
+https://wsvincent.com/django-rest-framework-react-tutorial/
+
+https://www.w3schools.com/react/react_forms.asp
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
